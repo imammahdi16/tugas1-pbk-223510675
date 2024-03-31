@@ -13,7 +13,11 @@ defineProps({
     <h3>
       MHD HAMMAM ALMAHDI
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      <a
+        href="https://tugas1-pbk-223510675.vercel.app/about"
+        target="_blank"
+        rel="noopener"
+        >About</a
     </h3>
   </div>
 </template>
